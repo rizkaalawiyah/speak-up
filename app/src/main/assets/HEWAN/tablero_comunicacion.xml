@@ -1,0 +1,128 @@
+<xml version="1.0" encoding="ISO-8859-1">
+  <cabecera>
+    <fondo color="524288"/>
+    <letra color="13421772"/>
+    <nombre titulo="RUTINAS CASA - ARASAAC - J.M.MARCOS, D. ROMERO"/>
+    <componentes filas="4" columnas="5"/>
+  </cabecera>
+  <celda>
+    <coordenadas fila="1" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/angsa.png" audio="AUDIOS/angsa.mp3" texto="Angsa" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/anjing.png" audio="AUDIOS/anjing.mp3" texto="Anjing" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/anjing laut.png" audio="AUDIOS/anjing laut.mp3" texto="Anjing Laut" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/ayam.png" audio="AUDIOS/ayam.mp3" texto="Ayam" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/ayam.png" audio="AUDIOS/ayam.mp3" texto="Ayam" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/burung.png" audio="AUDIOS/burung.mp3" texto="Burung" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/kuda.png" audio="AUDIOS/kuda.mp3" texto="Kuda" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/domba.png" audio="AUDIOS/domba.mp3" texto="Domba" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/gorila.png" audio="AUDIOS/gorila.mp3" texto="Gorila" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/ikan.png" audio="AUDIOS/ikan.mp3" texto="Ikan" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/jerapah.png" audio="AUDIOS/jerapah.mp3" texto="Jerapah" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/kambing.png" audio="AUDIOS/kambing.mp3" texto="Kambing" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/kangguru.png" audio="AUDIOS/kangguru.mp3" texto="Kangguru" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/keledai.png" audio="AUDIOS/keledai.mp3" texto="Keledai" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/kepiting.png" audio="AUDIOS/kepiting.mp3" texto="Kepiting" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/labalaba.png" audio="AUDIOS/laba laba.mp3" texto="Laba-Laba" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/lalat.png" audio="AUDIOS/lalat.mp3" texto="Lalat" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/lebah.png" audio="AUDIOS/lebah.mp3" texto="Lebah" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/nyamuk.png" audio="AUDIOS/nyamuk.mp3" texto="Nyamuk" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/onta.png" audio="AUDIOS/unta.mp3" texto="Unta" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="5" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/paus.png" audio="AUDIOS/paus.mp3" texto="Paus" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="5" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/singa.png" audio="AUDIOS/singa.mp3" texto="Singa" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="5" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/tupai.png" audio="AUDIOS/tupai.mp3" texto="Tupai" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="5" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/zebra.png" audio="AUDIOS/zebra.mp3" texto="Zebra" categoria="3" color="3381504"/>
+  </celda>
+</xml>

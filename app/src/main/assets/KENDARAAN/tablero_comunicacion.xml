@@ -1,0 +1,65 @@
+<xml version="1.0" encoding="ISO-8859-1">
+  <cabecera>
+    <fondo color="16187287"/>
+    <letra color="65793"/>
+    <nombre titulo=" Subjek. SUSANA S�NCHEZ PIMENTEL"/>
+    <componentes filas="4" columnas="5"/>
+  </cabecera>
+  <celda>
+    <coordenadas fila="1" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/ambulan.png" audio="AUDIOS/ambulan.mp3" texto="Ambulan" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bis.png" audio="AUDIOS/bus.mp3" texto="Bus" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/kereta.png" audio="AUDIOS/kereta.mp3" texto="Kereta" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/mobil.png" audio="AUDIOS/mobil.mp3" texto="Mobil" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/mobil polisi.png" audio="AUDIOS/mobil polisi.mp3" texto="Mobil Polisi" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/mobil sampah.png" audio="AUDIOS/mobil sampah.mp3" texto="Mobil Sampah" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/pemadam.png" audio="AUDIOS/mobil pemadam.mp3" texto="Pemadam Kebakaran" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/perahu.png" audio="AUDIOS/perahu.mp3" texto="Perahu" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/pesawat.png" audio="AUDIOS/pesawat.mp3" texto="Pesawat" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/truk.png" audio="AUDIOS/truk.mp3" texto="Truk" categoria="5" color="16724889"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/sepeda.png" audio="AUDIOS/sepeda.mp3" texto="Sepeda" categoria="5" color="16724889"/>
+  </celda>
+
+
+</xml>

@@ -1,0 +1,84 @@
+<xml version="1.0" encoding="ISO-8859-1">
+  <cabecera>
+    <fondo color="787456"/>
+    <letra color="13421772"/>
+    <nombre titulo="RUTINAS COLE - ARASAAC - J.M.MARCOS, DAVID ROMERO"/>
+    <componentes filas="4" columnas="6"/>
+  </cabecera>
+  <celda>
+    <coordenadas fila="1" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/burger.png" audio="AUDIOS/burger.mp3" texto="Burger" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/cokelatputih.png" audio="AUDIOS/cokelatputih.mp3" texto="Cokelat" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/cokolat.png" audio="AUDIOS/cokelat.mp3" texto="Cokelat Putih" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/eskrim.png" audio="AUDIOS/eskrim.mp3" texto="Es Krim" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/cupcake.png" audio="AUDIOS/kapcake.mp3" texto="Cup Cake" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/kue.png" audio="AUDIOS/kue.mp3" texto="Kue" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/pancake.png" audio="AUDIOS/penkek.mp3" texto="Pan Cake" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/permen.png" audio="AUDIOS/permen.mp3" texto="Permen" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/pizza.png" audio="AUDIOS/pizza.mp3" texto="Pizza" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/popcorn.png" audio="AUDIOS/popcorn.mp3" texto="Pop Corn" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/roti.png" audio="AUDIOS/roti.mp3" texto="Roti" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/salad.png" audio="AUDIOS/salad.mp3" texto="Salad" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/sayurlodeh.png" audio="AUDIOS/sayurlodeh.mp3" texto="Sayur Lodeh" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/sayurtahu.png" audio="AUDIOS/sayurtahu.mp3" texto="Sayur Tahu" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/sereal.png" audio="AUDIOS/sereal.mp3" texto="Sereal" categoria="3" color="3381504"/>
+  </celda>
+
+</xml>

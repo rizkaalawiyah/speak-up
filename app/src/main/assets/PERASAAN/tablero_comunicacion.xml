@@ -1,0 +1,90 @@
+<xml version="1.0" encoding="ISO-8859-1">
+  <cabecera>
+    <fondo color="524288"/>
+    <letra color="13421772"/>
+    <nombre titulo="RUTINAS CASA - ARASAAC - J.M.MARCOS, D. ROMERO"/>
+    <componentes filas="4" columnas="5"/>
+  </cabecera>
+  <celda>
+    <coordenadas fila="1" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bersenandung.png" audio="AUDIOS/bersenandung.mp3" texto="Bbersenandung" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/biasa saja.png" audio="AUDIOS/biasa saja.mp3" texto="Biasa Saja" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bingung.png" audio="AUDIOS/bingung.mp3" texto="Bingung" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bosan.png" audio="AUDIOS/bosan.mp3" texto="Bosan" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/kaget.png" audio="AUDIOS/kaget.mp3" texto="Kaget" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/lelah.png" audio="AUDIOS/lelah.mp3" texto="Lelah" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/marah.png" audio="AUDIOS/marah.mp3" texto="Marah" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/nangis.png" audio="AUDIOS/menangis.mp3" texto="Nangis" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/panas.png" audio="AUDIOS/panas.mp3" texto="Panas" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/penasaran.png" audio="AUDIOS/penasaran.mp3" texto="Penasaran" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/pusing.png" audio="AUDIOS/pusing.mp3" texto="Pusing" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/sakit.png" audio="AUDIOS/sakit.mp3" texto="Sakit" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/sedih.png" audio="AUDIOS/sedih.mp3" texto="Sedih" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/senang.png" audio="AUDIOS/senang.mp3" texto="Senang" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/senyum.png" audio="AUDIOS/senyum.mp3" texto="Senyum" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/terganggu.png" audio="AUDIOS/terganggu.mp3" texto="Terganggu" categoria="3" color="3381504"/>
+  </celda>
+
+
+</xml>

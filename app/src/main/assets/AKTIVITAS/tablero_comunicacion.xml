@@ -1,0 +1,91 @@
+<xml version="1.0" encoding="ISO-8859-1">
+  <cabecera>
+    <fondo color="16187287"/>
+    <letra color="65793"/>
+    <nombre titulo=" Subjek. SUSANA S�NCHEZ PIMENTEL"/>
+    <componentes filas="4" columnas="5"/>
+  </cabecera>
+  <celda>
+    <coordenadas fila="1" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bab.png" audio="AUDIOS/buang air besar.mp3" texto="Buang Air Besar" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/baca.png" audio="AUDIOS/membaca.mp3" texto="Baca" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bak.png" audio="AUDIOS/buang air kecil.mp3" texto="Buang Air Kecil" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bangun.png" audio="AUDIOS/bangun.mp3" texto="Bangun" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bekerja.png" audio="AUDIOS/bekerja.mp3" texto="Bekerja" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/berbicara.png" audio="AUDIOS/berbicara.mp3" texto="Berbicara" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/berinteraksi.png" audio="AUDIOS/berinteraksi.mp3" texto="Berinteraksi" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bermain.png" audio="AUDIOS/bermain.mp3" texto="Bermain" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/duduk.png" audio="AUDIOS/duduk.mp3" texto="Duduk" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/makan.png" audio="AUDIOS/makan.mp3" texto="Makan" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/mandi.png" audio="AUDIOS/mandi.mp3" texto="Mandi" categoria="5" color="16724889"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/mencukur.png" audio="AUDIOS/bercukur.mp3" texto="Mencukur" categoria="5" color="16724889"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/menyebrang.png" audio="AUDIOS/menyebrang.mp3" texto="Menyebrang" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/minum.png" audio="AUDIOS/minum.mp3" texto="Minum" categoria="5" color="16724889"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/sikat gigi.png" audio="AUDIOS/sikat gigi.mp3" texto="Sikat Gigi" categoria="5" color="16724889"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/tidur.png" audio="AUDIOS/tidur.mp3" texto="Tidur" categoria="3" color="3381504"/>
+  </celda>
+
+
+
+</xml>

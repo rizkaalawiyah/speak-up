@@ -1,0 +1,99 @@
+<xml version="1.0" encoding="ISO-8859-1">
+  <cabecera>
+    <fondo color="524288"/>
+    <letra color="13421772"/>
+    <nombre titulo="RUTINAS CASA - ARASAAC - J.M.MARCOS, D. ROMERO"/>
+    <componentes filas="4" columnas="5"/>
+  </cabecera>
+  <celda>
+    <coordenadas fila="1" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/balap.png" audio="AUDIOS/balapmobil.mp3" texto="Balap Mobil" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/balok.png" audio="AUDIOS/balok.mp3" texto="Balok" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/balon.png" audio="AUDIOS/balon.mp3" texto="Balon" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/basket.png" audio="AUDIOS/basket.mp3" texto="Basket" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="1" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/biliar.png" audio="AUDIOS/biliar.mp3" texto="Biliar" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bola.png" audio="AUDIOS/bola.mp3" texto="Bola" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/boneka.png" audio="AUDIOS/boneka.mp3" texto="Boneka" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/bulu.png" audio="AUDIOS/bulutangkis.mp3" texto="Bulu Tangkis" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/hula.png" audio="AUDIOS/hulahoop.mp3" texto="Hula Hoop" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="2" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/kartu remi.png" audio="AUDIOS/karturemi.mp3" texto="Kartu Remi" categoria="2" color="16737792"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/ludo.png" audio="AUDIOS/ludo.mp3" texto="Ludo" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/panah.png" audio="AUDIOS/panahan.mp3" texto="Panahan" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/permainan.png" audio="AUDIOS/permainan.mp3" texto="Permainan" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="4"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/puzzle.png" audio="AUDIOS/puzzle.mp3" texto="Puzzle" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="3" columna="5"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/rubik.png" audio="AUDIOS/rubik.mp3" texto="Rubik" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="1"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/rugbi.png" audio="AUDIOS/rugbi.mp3" texto="Rugbi" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="2"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/sudoku.png" audio="AUDIOS/sudoku.mp3" texto="Sudoku" categoria="3" color="3381504"/>
+  </celda>
+  <celda>
+    <coordenadas fila="4" columna="3"/>
+    <ocupada flag="true"/>
+    <pictograma imagen="IMAGENES/tenis.png" audio="AUDIOS/tenis.mp3" texto="Tenis" categoria="3" color="3381504"/>
+  </celda>
+
+</xml>
